@@ -1,0 +1,12 @@
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EmailNotification.exe.config
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EmailNotification.exe
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EmailNotification.pdb
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EntityFramework.dll
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EntityFramework.xml
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\obj\Debug\EmailNotification.csproj.CoreCompileInputs.cache
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\obj\Debug\EmailNotification.csproj.CopyComplete
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\obj\Debug\EmailNotification.exe
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\obj\Debug\EmailNotification.pdb
+C:\Users\Prateek Choudhary\Desktop\CusJoTaskEmailNotifications\EmailNotification\obj\Debug\EmailNotification.csprojAssemblyReference.cache
